@@ -1,4 +1,5 @@
-## CSE3901 VM Config
+## CSE3901 VM Config to Execute:
+##  bash env_setup_3901.sh
 sudo apt update
 sudo apt upgrade -y
 
